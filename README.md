@@ -99,14 +99,18 @@ __이 부분을 집중해주세요!__ 감사합니다
 
 # 이미지 넣기 
 
-tip) 이미지 크기 조절
-<img src="이미지 링크" width="너비 " height="높이">
-
+<!-- tip) 이미지 크기 조절 -->
+<!-- <img src="이미지 링크" width="너비 " height="높이"> -->
 ex)
 <img src="https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg" width="700" height="370">
 
 ![텍스트](이미지 링크 주소)
 
+
+# [문자열 개행]
+# 방법1. 문장 마지막에 스페이스 두 번 이상 입력  
+# 방법2. html <br> 태그를 사용 <br>
+# 방법2. html <br> 태그를 사용 <br>
 
 <!-- 참고: https://shields.io/ -->
 
