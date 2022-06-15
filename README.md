@@ -10,3 +10,10 @@
 로고와 공식컬러를 포함한 예쁜 아이콘 뱃지
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+
+# 뱃지에 링크걸기
+
+<!-- <a href="링크"><img src="위에있는뱃지코드"/></a>  -->
+
+<a href="https://www.naver.com/"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
