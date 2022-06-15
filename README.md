@@ -114,7 +114,9 @@ ex)
 ![CNN-Figure-02](https://user-images.githubusercontent.com/85111065/173890872-1592710c-4711-42a0-803c-6d37ebcd2b3e.png)
 
 
-<img src="./APOD.jpg" width="300">
+<img src="./APOD.jpg" width="300"> <br>
+
+<img src="./APOD.jpg" >{: width="100" height="100"}
 
 
 
@@ -174,7 +176,7 @@ Github Url: https://github.com/shiny0510/FewShot_GAN-Unet3D (꼭! 하이퍼링�
 
 ![image](https://user-images.githubusercontent.com/85111065/173891979-c4353c43-345f-4cec-8a4f-d818e00d97f5.png)
 
-4. 결과:
+4. 결과: <br>
 ![image](https://user-images.githubusercontent.com/85111065/173892034-27a00459-f7af-4ed7-877c-45baa59f2a10.png)
 
 ![image](https://user-images.githubusercontent.com/85111065/173892050-d0406ab4-e31b-43c1-bfa7-cd121428e1aa.png)
