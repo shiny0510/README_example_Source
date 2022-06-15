@@ -111,12 +111,12 @@ ex)
 <img src="https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg" width="700" height="370">
 
 ![텍스트](이미지 링크 주소) <br>
-![CNN-Figure-02](https://user-images.githubusercontent.com/85111065/173890872-1592710c-4711-42a0-803c-6d37ebcd2b3e.png)
+![CNN-Figure-02](https://user-images.githubusercontent.com/85111065/173890872-1592710c-4711-42a0-803c-6d37ebcd2b3e.png){: width="100" height="100"}
 
 
 <img src="./APOD.jpg" width="300"> <br>
 
-<img src="./APOD.jpg">{: width="100" height="100"}
+<img src="./APOD.jpg" width="100" height="100">
 
 
 
