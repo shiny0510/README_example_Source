@@ -116,7 +116,7 @@ ex)
 
 <img src="./APOD.jpg" width="300"> <br>
 
-<img src="./APOD.jpg" >{: width="100" height="100"}
+<img src="./APOD.jpg">{: width="100" height="100"}
 
 
 
