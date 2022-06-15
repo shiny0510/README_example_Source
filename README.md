@@ -161,7 +161,9 @@ ex)
 
 # Test 모델을 이용한 Test 도출
 
-Github Url: https://github.com/shiny0510/FewShot_GAN-Unet3D (꼭! 하이퍼링크)
+* Github Url: https://github.com/shiny0510/FewShot_GAN-Unet3D (꼭! 하이퍼링크)
+
+* requirement: pandas, numpy, torch, seaborn, matplotlib
 
 1. 수행 기관: 알파코, 빅데이터기반 딥러닝 부트캠프 (역할: Method 튜닝, 전처리, 팀장, 트러블 슈팅)
 
