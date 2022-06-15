@@ -35,7 +35,7 @@ for i in range(0,5):
 객체탐지 | 2022 | YOLO | [링크를걸겠습니다.](https://github.com/shiny0510/pycaret)
 
 # 강조
-**이 부분을 집중해주세요!**
+**이 부분을 집중해주세요!** 감사합니다
 
 
 <!-- 참고: https://shields.io/ -->
