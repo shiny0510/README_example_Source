@@ -46,7 +46,6 @@ for i in range(0,5):
 **이 부분을 집중해주세요!** 감사합니다
 
 
-
 <!-- 참고: https://shields.io/ -->
 
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
