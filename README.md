@@ -97,6 +97,8 @@ __이 부분을 집중해주세요!__ 감사합니다
 ~~취소선~~
 
 
+
+
 # 이미지 넣기 
 
 <!-- tip) 이미지 크기 조절 -->
@@ -104,14 +106,23 @@ __이 부분을 집중해주세요!__ 감사합니다
 ex)
 <img src="https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg" width="700" height="370">
 
-![텍스트](이미지 링크 주소)
+![텍스트](이미지 링크 주소) <br>
 ![CNN-Figure-02](https://user-images.githubusercontent.com/85111065/173890872-1592710c-4711-42a0-803c-6d37ebcd2b3e.png)
+
+
+<img src="./APOD.jpg" width="300">
+
 
 
 # 문자열 개행
 방법1. 문장 마지막에 스페이스 두 번 이상 입력  
 방법2. html <br> 태그를 사용 
 방법2. html <br> 태그를 사용 
+
+
+
+
+
 
 <!-- 참고: https://shields.io/ -->
 
