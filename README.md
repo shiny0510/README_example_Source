@@ -13,15 +13,11 @@ for i in range(0,5):
 
 하나
 
-   둘(탭으로 들여쓰기)
+    둘(탭, 스페이스바로 이부분 회색 될 때까지 들여쓰기)
 
 셋
 
-code 1
 
-     code 2 // code block 할 내용
-
-code 3 // 정상적으로 출력
 
 # 링크걸기
 [링크를걸겠습니다.](https://www.naver.com/)
