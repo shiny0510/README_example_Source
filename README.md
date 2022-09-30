@@ -93,12 +93,13 @@ for i in range(0,5):
 __이 부분을 집중해주세요!__ 감사합니다
 
 
-
+x
 
 # 취소선
 ~~취소선~~
 
 
+![testimage](https://user-images.githubusercontent.com/85111065/193165910-acba85e3-cf8a-4ce9-aadb-2b8eadde39ae.JPG)
 
 
 
