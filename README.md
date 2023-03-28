@@ -167,7 +167,7 @@ ex)
 
 * requirement: pandas, numpy, torch, seaborn, matplotlib
 
-1. 수행 기관: 알파코, 빅데이터기반 딥러닝 부트캠프 (역할: Method 튜닝, 전처리, 팀장, 트러블 슈팅)
+1. 수행 기관:  부트캠프 (역할: Method 튜닝, 전처리, 팀장, 트러블 슈팅)
 
 2. 데이터: 환자 데이터 10000개, 정상인 데이터 20만개
 
