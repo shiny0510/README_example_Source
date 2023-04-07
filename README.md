@@ -1,4 +1,4 @@
-https://drive.google.com/drive/u/0/folders/1E64x8SBVQzStd9ebUOXwPhPKs0ge7Nui
+https://drive.google.com/drive/folders/1E64x8SBVQzStd9ebUOXwPhPKs0ge7Nui?usp=sharing
 
 수평선 (구분선, 수평선을 만들려면 - or * or _을 3개를 입력)
 
