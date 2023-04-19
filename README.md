@@ -9,14 +9,15 @@ https://drive.google.com/drive/folders/1fPoWIIv62ZcfzNOsuD8x4ELS_FzDDG2-?usp=sha
 https://drive.google.com/drive/folders/1TOALHPOidDgD7c2ZjKJXEBkmSUHqEQUO?usp=share_link
 
 https://colab.research.google.com/drive/1HBBhzyojIA3DoY4AIYkyr_jNLiYtGwb9?usp=sharing
-
 ---
-
 https://colab.research.google.com/drive/1aUwJvbdqQMCVhJca3PE4pctbco4Leiwp?usp=sharing
-
 ---
-
 https://drive.google.com/drive/folders/1NObO3uKRHQfaKBYfTg4QcJLmzOnzz_rA?usp=share_link
+
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+
+
 
 수평선 (구분선, 수평선을 만들려면 - or * or _을 3개를 입력)
 
