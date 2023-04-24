@@ -17,6 +17,7 @@ https://drive.google.com/drive/folders/1NObO3uKRHQfaKBYfTg4QcJLmzOnzz_rA?usp=sha
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
+![test](https://user-images.githubusercontent.com/85111065/233876876-6f820b03-4bef-4386-ae17-432e85bfd5f5.PNG)
 
 
 수평선 (구분선, 수평선을 만들려면 - or * or _을 3개를 입력)
