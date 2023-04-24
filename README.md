@@ -1,31 +1,8 @@
-https://drive.google.com/drive/folders/1E64x8SBVQzStd9ebUOXwPhPKs0ge7Nui?usp=sharing
-
-https://drive.google.com/drive/folders/1Cyc_oPw-Z11jBVA0eg3KVqloD0N7NTap?usp=share_link
-
-https://drive.google.com/drive/folders/1Awis53d1ex-Mv6Gphn_yAIjX0mWCPJ-1?usp=sharing
-
-https://drive.google.com/drive/folders/1fPoWIIv62ZcfzNOsuD8x4ELS_FzDDG2-?usp=sharing
-
-https://drive.google.com/drive/folders/1TOALHPOidDgD7c2ZjKJXEBkmSUHqEQUO?usp=share_link
-
-https://colab.research.google.com/drive/1HBBhzyojIA3DoY4AIYkyr_jNLiYtGwb9?usp=sharing
----
-https://colab.research.google.com/drive/1aUwJvbdqQMCVhJca3PE4pctbco4Leiwp?usp=sharing
----
-https://drive.google.com/drive/folders/1NObO3uKRHQfaKBYfTg4QcJLmzOnzz_rA?usp=share_link
-
-
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
-
-![test](https://user-images.githubusercontent.com/85111065/233876876-6f820b03-4bef-4386-ae17-432e85bfd5f5.PNG)
-
-
 수평선 (구분선, 수평선을 만들려면 - or * or _을 3개를 입력)
 
 ---
 
 ***
-![사진1](https://user-images.githubusercontent.com/85111065/230516822-4475bd9a-77aa-40ff-847d-6a8145ba490a.PNG)
 
 ___
 
